@@ -1,0 +1,36 @@
+<style type='text/css'>
+
+.circle-icons {
+
+  padding: 10px; /* espaçamento */
+
+  font-size: 50px; /* tamanho do icone */
+
+  width: 18px; /* tamanho do fundo */
+
+  text-align: center;
+
+  text-decoration: none;
+
+  margin: 5px 2px; /* espaçamento entre eles */
+
+  border-radius: 50%;
+
+  background: #f0e9e9; /* cor do fundo */
+
+  color: #fff; /*cor do icone */
+
+}
+
+
+.circle-icons:hover {
+
+    background: #ccc; /*  cor de fundo com mouse encima */
+
+    color: #fff;  /* cor do icone com mouse encima */
+
+    opacity: 0.7;
+
+}
+
+</style>
