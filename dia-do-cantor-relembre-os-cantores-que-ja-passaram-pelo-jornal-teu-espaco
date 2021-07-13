@@ -256,9 +256,9 @@ var rlArgs = {"script":"swipebox","selector":"lightbox","customEvents":"","activ
            <ul class="nav nav-pills mb-3 mt-2" id="pills-tab" role="tablist">
           <li class="nav-item ml-2">
             <img width="610" height="300" src="https://www.teuespaco.com.br/images/clients/4922168%20(1).png" class="card-img img-fluid wp-post-image" alt=""  sizes="(max-width: 610px) 100vw, 610px"></a>
-            <img width="610" height="300" src="images/clients/25.png" class="card-img img-fluid wp-post-image" alt=""  sizes="(max-width: 610px) 100vw, 610px"></a>
-            <img width="610" height="300" src="images/clients/26.png" class="card-img img-fluid wp-post-image" alt=""  sizes="(max-width: 610px) 100vw, 610px"></a>
-            <img width="610" height="300" src="images/clients/27.png" class="card-img img-fluid wp-post-image" alt=""  sizes="(max-width: 610px) 100vw, 610px"></a>
+            <img width="610" height="300" src="https://scontent.fcfc2-1.fna.fbcdn.net/v/t1.6435-9/215415931_767339307395084_230342795093452772_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeGjYMXbuKMI7LAcIxGYdV-6cZ4TUcQRqy1xnhNRxBGrLYKnDYHzsld6DHVirwXVAeqxWMcm_7tZH_qyVtpRZjdT&_nc_ohc=qE2gn9m9AZEAX9HI1C7&_nc_ht=scontent.fcfc2-1.fna&oh=bf154f926e2a440d2854023dd59e8a09&oe=60F2C287" class="card-img img-fluid wp-post-image" alt=""  sizes="(max-width: 610px) 100vw, 610px"></a>
+            <img width="610" height="300" src="https://scontent.fcfc2-1.fna.fbcdn.net/v/t1.6435-0/p526x296/212919804_766661967462818_3068991591804669938_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeEpa6GJNA6lv89EuecN3u2OkKzH7L5I5LeQrMfsvkjkt13RzqcW9URECPtL9pbL3GNyaDsOlBhqA1FB2okOMZyD&_nc_ohc=MiIuocw115sAX85-txf&_nc_ht=scontent.fcfc2-1.fna&oh=4d48602f1eb8a1a0622bc8c4a2c8e0e9&oe=60F3266F" class="card-img img-fluid wp-post-image" alt=""  sizes="(max-width: 610px) 100vw, 610px"></a>
+            <img width="610" height="300" src="https://scontent.fcfc2-1.fna.fbcdn.net/v/t1.6435-0/p526x296/210064561_762999361162412_901456127740658268_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeHEn6O77iIZSXOuJrwif6DWdmJ6tR6ICxl2Ynq1HogLGYgdccN744jUDjWkM-buQRKnDjt9_1VJv4GbHHsgmSrY&_nc_ohc=v_8_5cMVpHIAX8SXQeP&_nc_ht=scontent.fcfc2-1.fna&oh=19004809d2839bd86bf42817555b4d32&oe=60F31D32" class="card-img img-fluid wp-post-image" alt=""  sizes="(max-width: 610px) 100vw, 610px"></a>
             <img width="610" height="300" src="images/clients/28.png" class="card-img img-fluid wp-post-image" alt=""  sizes="(max-width: 610px) 100vw, 610px"></a>
           </li>
         </ul>
